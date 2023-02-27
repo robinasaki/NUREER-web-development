@@ -1,7 +1,7 @@
-# Analyze-the-COVID-19-Mortality-Rate-with-respect-to-Different-Variables
+# Analyzing-the-COVID-19-Mortality-Rate-with-respect-to-Different-Variables
 ### Examine the relation between the COVID-19 mortality rate and confirmation count, death count, countries and their individual wealth, omicron proportion
 -----
-*Chenxu Robin Mao | robin.mao@mail.utoronto.ca*
+*Chenxu Robin Mao | robin.mao@mail.utoronto.ca | project 2 version*
 
 ## Summary
 
@@ -20,3 +20,5 @@ To ensure precision and integrity, more detailed summaries are broken down and g
 > Global Population: *https://data.worldbank.org/indicator/SP.POP.TOTL*
 
 > COVID-19 Variants: *https://www.kaggle.com/datasets/gpreda/covid19-variants*
+
+*last updated 2023-02-26*
